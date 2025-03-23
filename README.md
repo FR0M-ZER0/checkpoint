@@ -41,8 +41,6 @@ Para o desenvolvimento do **Checkpoint**, utilizamos a metodologia ágil **Scrum
 ### 3ª Sprint - MVP
 - **Loading...**
 
-### 4ª Sprint - MVP
-- **Loading...**
 
 ## 📖 Backlog do Produto  
 
