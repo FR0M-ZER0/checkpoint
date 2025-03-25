@@ -1,6 +1,6 @@
 # 🕒 Checkpoint - O ponto seguro para sua jornada de trabalho! 📍
 
-![Banner Checkpoint](.img/banner.jpg)
+![Banner Checkpoint](img/banner.jpg)
 
 ## 📌 Visão Geral  
 O **Checkpoint** é uma aplicação web desenvolvida para otimizar o gerenciamento de jornada de trabalho, proporcionando uma solução moderna e eficiente para o controle de ponto eletrônico. A plataforma permite registros precisos de entrada e saída, cálculo automático de horas, gestão de ausências e um painel intuitivo para análise de dados e geração de relatórios.
