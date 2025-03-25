@@ -1,5 +1,7 @@
 # 🕒 Checkpoint - O ponto seguro para sua jornada de trabalho! 📍
 
+![Banner Checkpoint](https://via.placeholder.com/1200x400/6DB33F/FFFFFF?text=Checkpoint+-+Gestão+de+Ponto+Eletrônico)
+
 ## 📌 Visão Geral  
 O **Checkpoint** é uma aplicação web desenvolvida para otimizar o gerenciamento de jornada de trabalho, proporcionando uma solução moderna e eficiente para o controle de ponto eletrônico. A plataforma permite registros precisos de entrada e saída, cálculo automático de horas, gestão de ausências e um painel intuitivo para análise de dados e geração de relatórios.
 
@@ -21,11 +23,17 @@ O **Checkpoint** é uma aplicação web desenvolvida para otimizar o gerenciamen
 
 ## 🎯 Objetivo  
 O objetivo do **Checkpoint** é oferecer uma solução completa para a gestão de jornada, permitindo:
+
 ✅ Registro de ponto online com diferentes métodos.
+
 ✅ Cálculo automatizado de horas trabalhadas e extras.
+
 ✅ Gestão intuitiva de ausências e folgas.
+
 ✅ Notificações e alertas para evitar esquecimentos.
+
 ✅ Relatórios detalhados e personalizados.
+
 ✅ Conformidade com normas e regulamentações.
 
 ## 🚀 Metodologia  
@@ -41,12 +49,7 @@ Para o desenvolvimento do **Checkpoint**, utilizamos a metodologia ágil **Scrum
 ### 3ª Sprint - MVP
 - **Loading...**
 
-
 ## 📖 Backlog do Produto  
-
-# Requisitos do Sistema de Gestão de Ponto
-
-## Lista de Requisitos e User Stories
 
 | ID | Requisito                                  | User Story                                                                                                                              | Prioridade | Estimativa | Critérios de Aceitação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -94,25 +97,19 @@ Formato dos commits:
 - prefixo[ID DA TASK JIRA]: <descrição>
 
 ## 👷 Equipe de Desenvolvimento  
-🔹 **[Gabriel Guimarães]** - Scrum Master  
-[GitHub](https://github.com/gabrielbguimaraes) | [LinkedIn](https://www.linkedin.com/in/gabriel-g-854017138/)
 
-🔹 **[João Suzuki]** - Product Owner  
-[GitHub](https://github.com/joaosuzuki98) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-suzuki-6a2b02192/)
-
-🔹 **[Avya Alex]** - Desenvolvedor
-[GitHub](https://github.com/AvyaAquino) | [LinkedIn](https://www.linkedin.com/in/avya-candido-598b5228a/)
-
-🔹 **[Davi Miguel]** - Desenvolvedor
-[GitHub](https://github.com/DMBMz) | [LinkedIn]([https://www.linkedin.com/in/devbackend-link](https://www.linkedin.com/in/davi-miguel-a90821214/))
-
-🔹 **[João Góes]** - Desenvolvedor 
-[GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes/)
-
-🔹 **[Pedro Prevides]** - Desenvolvedor 
-[GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/)
+| Função          | Nome            | GitHub | LinkedIn |
+|-----------------|-----------------|--------|----------|
+| Scrum Master    | Gabriel Guimarães | [GitHub](https://github.com/gabrielbguimaraes) | [LinkedIn](https://www.linkedin.com/in/gabriel-g-854017138/) |
+| Product Owner   | João Suzuki     | [GitHub](https://github.com/joaosuzuki98) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-suzuki-6a2b02192/) |
+| Developer   | Avya Alex       | [GitHub](https://github.com/AvyaAquino) | [LinkedIn](https://www.linkedin.com/in/avya-candido-598b5228a/) |
+| Developer   | Davi Miguel     | [GitHub](https://github.com/DMBMz) | [LinkedIn](https://www.linkedin.com/in/davi-miguel-a90821214/) |
+| Developer   | João Góes       | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes/) |
+| Developer   | Pedro Prevides  | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
 
 ## 📅 Relatórios das Sprints  
 📌 Sprint 1 - *Laoding...* 
+
 📌 Sprint 2 - *Loading...*  
+
 📌 Sprint 3 - *Loading...*  
