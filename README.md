@@ -42,7 +42,6 @@ Para o desenvolvimento do **Checkpoint**, utilizamos a metodologia ágil **Scrum
 ## 🏆 MVP (Minimum Viable Product)
 ### 1ª Sprint - MVP
 - **Acesso do Colaborador**
-- 
 
 ### 2ª Sprint - MVP
 - **Acesso do Gestor/Admin**
