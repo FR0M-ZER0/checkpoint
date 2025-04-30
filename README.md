@@ -120,10 +120,3 @@ Formato dos commits:
 | Developer     | Davi Miguel       | [GitHub](https://github.com/DMBMz)             | [LinkedIn](https://www.linkedin.com/in/davi-miguel-a90821214/)      |
 | Developer     | João Góes         | [GitHub](https://github.com/MagNumGomes)       | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes/)              |
 | Developer     | Pedro Prevides    | [GitHub](https://github.com/GalaxyBurst)       | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/)   |
-
-## 📅 Relatórios das Sprints
-📌 Sprint 1 - *Loading...*
-
-📌 Sprint 2 - *Loading...*
-
-📌 Sprint 3 - *Loading...*
