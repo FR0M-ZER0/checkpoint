@@ -80,7 +80,7 @@ Para o desenvolvimento do **Checkpoint**, utilizamos a metodologia ágil **Scrum
 
 ## 📖 Backlog da 1ª Sprint (Acesso do Colaborador)
 
-![Sprint Backlog 1](img/sprint-backlog-s1.png)
+![Sprint Backlog 1](img/sprint-1.png)
 
 
 
