@@ -75,7 +75,7 @@ O backend segue uma estrutura de projeto Maven padrão para aplicações Spring 
         spring.datasource.username=[USUARIO_MYSQL]
         spring.datasource.password=[SENHA_MYSQL]
         spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
-        spring.jpa.hibernate.ddl-auto=validate # ou none para produção
+        spring.jpa.hibernate.ddl-auto=validate
         ```
     * Configure a URI do MongoDB:
         ```properties
@@ -91,7 +91,6 @@ O backend segue uma estrutura de projeto Maven padrão para aplicações Spring 
         spring.mail.password=[SENHA_DE_APLICATIVO_GMAIL]
         # ... outras propriedades de email ...
         ```
-    * Outras configurações (upload de diretório, etc.).
 6.  **Build do Projeto:**
     No terminal, na raiz do projeto backend:
     ```bash
@@ -225,7 +224,7 @@ O frontend é uma aplicação Vite + React + TypeScript. A estrutura de pastas p
 1.  **Pré-requisitos:**
     * Node.js (versão LTS recomendada, ex: 18.x ou 20.x).
     * NPM (geralmente vem com o Node.js) ou Yarn.
-2.  **Clonar o Repositório:** `git clone [URL_DO_REPOSITORIO_FRONTEND]`
+2.  **Clonar o Repositório:** `git clone https://github.com/FR0M-ZER0/checkpoint_front.git`
 3.  **Instalar Dependências:**
     Na raiz do projeto frontend, execute:
     ```bash
