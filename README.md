@@ -107,7 +107,7 @@ Para manter um histórico de código organizado e padronizado, utilizamos a segu
 | build    | Mudanças no sistema de build ou dependências.                           |
 
 Formato dos commits:
-- prefixo[ID DA TASK JIRA]: <descrição>
+- prefixo[ID DA TASK JIRA]:  <descrição>
 
 ## 👷 Equipe de Desenvolvimento
 
